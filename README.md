@@ -57,6 +57,7 @@ Tools and approaches for managing prompt context and memory limits.
 - [Guidance](https://github.com/guidance-ai/guidance) — Framework for controlling LLM outputs and context.
 - [Guardrails](https://github.com/shreya-shankar/guardrails) — Framework for enforcing structure and constraints in outputs.
 - [PromptLayer](https://www.promptlayer.com/) — Tool for tracking, managing, and versioning prompts.
+- [Pluribus](https://github.com/caioribeiroclw-pixel/pluribus) — CLI for syncing and auditing agent context files across Claude Code, Cursor, Codex, Windsurf, and other AI coding tools with fidelity/load-evidence receipts.
 
 ## Personalization & User Memory
 
