@@ -64,6 +64,7 @@ Systems focused on storing user-specific context and preferences.
 
 - [Mem0](https://github.com/mem0ai/mem0) — Lightweight memory layer for personalization in AI agents.
 - [Zep](https://github.com/getzep/zep) — Long-term memory store for conversational AI applications.
+- [Remio](https://remio.ai/) — Local-first personal knowledge base that pre-parses files, webpages, recordings, notes, emails, and messages into indexed and vector-searchable memory for lower-token agent retrieval.
 - [Rewind](https://www.rewind.ai/) — Personal memory system capturing user activity and context.
 - [Supermemory](https://github.com/supermemoryai/supermemory) — Personal AI memory infrastructure.
 
