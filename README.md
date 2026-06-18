@@ -75,6 +75,7 @@ Tools for monitoring memory quality and retrieval effectiveness.
 - [Ragas](https://github.com/explodinggradients/ragas) — Evaluation toolkit for retrieval and memory systems.
 - [Promptfoo](https://github.com/promptfoo/promptfoo) — Testing framework for prompt and memory performance.
 - [DeepEval](https://github.com/confident-ai/deepeval) — Evaluation framework for LLM systems.
+- [Future AGI](https://github.com/future-agi/future-agi) — Open-source platform for agent simulation, evaluating, tracing, guarding, and auto-improving AI agents
 
 ## Research & Concepts
 
