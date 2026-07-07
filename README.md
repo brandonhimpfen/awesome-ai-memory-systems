@@ -28,6 +28,7 @@ Frameworks for building structured memory layers in AI systems.
 - [MemGPT](https://github.com/cpacker/MemGPT) — System for managing long-term context using external memory.
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) — Framework for connecting LLMs to external data and memory.
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) — Memory and planning capabilities for AI applications.
+- [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) — Local-first Rust CLI/TUI for AI agent memory lifecycle, recall, audit, forgetting, and consolidation.
 
 ## Vector Databases
 
@@ -55,7 +56,7 @@ Tools and approaches for managing prompt context and memory limits.
 
 - [tiktoken](https://github.com/openai/tiktoken) — Tokenizer for managing input size and context windows.
 - [Guidance](https://github.com/guidance-ai/guidance) — Framework for controlling LLM outputs and context.
-- [Guardrails](https://github.com/shreya-shankar/guardrails) — Framework for enforcing structure and constraints in outputs.
+- [Guardrails](https://github.com/guardrails-ai/guardrails) — Framework for enforcing structure and constraints in outputs.
 - [PromptLayer](https://www.promptlayer.com/) — Tool for tracking, managing, and versioning prompts.
 
 ## Personalization & User Memory
